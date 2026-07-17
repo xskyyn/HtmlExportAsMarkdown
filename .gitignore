@@ -1,0 +1,14 @@
+# PyInstaller 构建产物
+*.spec
+build/
+dist/
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE 配置
+.vscode/
+.idea/
+*.swp

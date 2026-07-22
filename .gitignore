@@ -12,3 +12,8 @@ __pycache__/
 .vscode/
 .idea/
 *.swp
+
+check1.py
+
+*_daily_history.csv
+*.csv
